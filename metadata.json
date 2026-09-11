@@ -1,0 +1,6 @@
+{
+  "name": "Human Tribunal",
+  "description": "An absurd AI-powered courtroom to judge questionable human decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
