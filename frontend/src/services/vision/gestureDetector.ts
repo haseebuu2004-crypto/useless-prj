@@ -186,7 +186,7 @@ class GestureDetector {
 
       const torsoHeight = Math.abs(hipsMidY - shouldersMidY);
       
-      let detectedPosture: "STANDING" | "SITTING" | "CROUCHING" = "UNKNOWN";
+      let detectedPosture: "STANDING" | "SITTING" | "CROUCHING" | "UNKNOWN" = "UNKNOWN";
       if (torsoHeight < 0.18) {
         detectedPosture = "CROUCHING";
       } else if (hipsMidY > 0.7) { 
