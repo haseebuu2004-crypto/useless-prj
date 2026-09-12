@@ -6,12 +6,11 @@
 
 ## Basic Details
 
-### Team Name: [ADD TEAM NAME]
+### Team Name: [Aban Faruk]
 
 ### Team Members
-- Team Lead: [ADD TEAM LEAD NAME] - [ADD COLLEGE]
-- Member 2: [ADD MEMBER 2 NAME] - [ADD COLLEGE]
-- Member 3: [ADD MEMBER 3 NAME] - [ADD COLLEGE]
+- Team Lead: [Aban Faruk] - [Ahalia School of Engineering and Technology]
+- Member 2: [Haseeb Ahamad] - [Ahalia School of Engineering and Technology]
 
 ### Project Description
 Human Tribunal is an absurd AI-powered courtroom experience that monitors physical human behavior in real-time using in-browser computer vision. When suspicious or unusual physical actions are observed—such as sitting completely motionless, raising a hand without judicial clearance, leaning dramatically, or fleeing the camera frame—the system generates structured evidence and initiates a high-stakes courtroom trial. Powered by Gemini, the AI Judge evaluates the evidence alongside the defendant's defense statement, delivering deadpan, Kerala courtroom-flavored verdicts and harmless, comical punishments.
@@ -258,10 +257,8 @@ flowchart TD
 
 ## Team Contributions
 
-- [ADD TEAM MEMBER 1]: [Specific contributions - e.g., Frontend UX, Courtroom Components & Animation]
-- [ADD TEAM MEMBER 2]: [Specific contributions - e.g., MediaPipe Pose Vision Pipeline & Temporal Detector]
-- [ADD TEAM MEMBER 3]: [Specific contributions - e.g., Express Backend, Gemini AI Judge Provider & Session Engine]
-
+- [Aban Faruk]: [Specific contributions - e.g., Frontend UX, Courtroom Components & Animation]
+- [Haseeb Ahamad]: [Specific contributions - e.g., MediaPipe Pose Vision Pipeline & Temporal Detector]
 ---
 
 Made with ❤️ at TinkerHub Useless Projects 
